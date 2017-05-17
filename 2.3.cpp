@@ -1,6 +1,6 @@
  /*
  *Q2.3 Implement an algorithm to delete a node in the midddle of a single linked list,given only access to that node.
- *Ex:
+ *Example:
  *Input:the node 'c' from the linked list a->b->c->d->e Result:nothing is returned,but the new linked list lokks like a->b->d->e
  */
 
