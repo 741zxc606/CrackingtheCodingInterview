@@ -1,4 +1,4 @@
-/*
+ /*
  *Q2.3 Implement an algorithm to delete a node in the midddle of a single linked list,given only access to that node.
  *Ex:
  *Input:the node 'c' from the linked list a->b->c->d->e Result:nothing is returned,but the new linked list lokks like a->b->d->e
@@ -34,7 +34,7 @@ node* init(int a[], int n)
 bool remove(node *c)
 {
 	if (c == NULL || c->next == NULL) return false;
-	/*if (c->next == NULL)
+	/*if (c->next == NULL) c为最后一个元素时直接删除，不行，最后还是会打印出一个为0的结点，需要特殊处理
 	{
 		delete c;
 		return;
