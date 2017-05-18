@@ -1,5 +1,5 @@
 /*
- *Q3.2 How would you design a stack which,in addition to push and pop,also has a function min which returns the minimu element?
+ *Q3.2 How would you design a stack which,in addition to push and pop,also has a function min which returns the minimum element?
  *Push,pop and min should all oprate in O(1) time.
  */
 
