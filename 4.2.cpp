@@ -42,6 +42,7 @@ bool route(int src, int dst)
 int main()
 {
 	freopen("4.2.in","r",stdin);
+	//Visual Studio Project properties -> C/C++ -> Preprocessor -> PreprocessorDefinitions -> Add "_CRT_SECURE_NO_WARNINGS"
 
 	init();
 	int m, u, v;
