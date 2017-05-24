@@ -38,7 +38,7 @@ void print_pare(int l, int r, char str[], int cnt)
 int main()
 {
     const int cnt = 3;
-	char str[2*cnt];
-	print_pare(cnt, cnt, str, 0);
-	return 0;
+    char str[2*cnt];
+    print_pare(cnt, cnt, str, 0);
+    return 0;
 }
