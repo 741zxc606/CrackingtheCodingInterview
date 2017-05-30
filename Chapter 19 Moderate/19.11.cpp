@@ -1,3 +1,7 @@
+/*
+ * Q 19.11 Design an algorithm to find all pairs of integers within an array which sum to a specified value.
+ */
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
