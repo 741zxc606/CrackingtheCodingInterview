@@ -1,3 +1,7 @@
+/*
+ * Q 20.7 Write a program to find the longest word made of other words.
+ */
+
 #include <iostream>
 #include <algorithm>
 #include "hash.h"
