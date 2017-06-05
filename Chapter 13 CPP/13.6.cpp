@@ -1,5 +1,5 @@
 /*
- * 13.6
+ * Q 13.6 What is name hiding in C++?
  */
 
 #include <iostream>
